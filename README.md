@@ -71,4 +71,4 @@ Mus, lyklabord, vefmyndavel
 | Gluggakassi   | tolvutek.is   | 16.990kr  |
 | Windows 7 OS  | piratebay.com | 	 FRITT  |
 | 4TB HDD diskur| elko.is       | 15.900kr  |
-| **Heildarverd**   |               | 195.840kr |
+| **Heildarverd**   |               | **195.840kr** |
