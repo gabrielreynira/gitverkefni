@@ -60,3 +60,16 @@ Jadartaeki eru einfaldlega taeki sem notud eru til ad setja inn eda/og taka uppl
 Mus, lyklabord, vefmyndavel
 
 **10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.**
+
+| Heiti bunadar | Bud/vefsida   | Kostnadur |
+| ------------- |---------------| ---------:|
+| Intel i7-7700 | computer.is   | 41.900kr  |
+| Arctic Vifta  | computer.is   | 5.990kr   |
+| Modurbord     | tolvutek.is   | 14.990kr  |
+| 2TB SSD diskur| computer.is   | 15.900kr  |
+| GTX1080 8GB   | computer.is   | 83.990kr  |
+| Gluggakassi   | tolvutek.is   | 16.990kr  |
+| Windows 7 OS  | piratebay.com | 	 FRITT  |
+| 4TB HDD diskur| elko.is       | 15.900kr  |
+| ------------- |---------------| ---------:|
+| Heildarverd   |               | 195.840kr |
