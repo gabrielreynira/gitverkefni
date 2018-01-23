@@ -19,6 +19,12 @@ ESD stendur fyrir electrostatic discharge, og er skyndilegt flaedi rafmangs, og 
 Hlutur til ad hafa i huga er hversu mikid watt spennugjafinn notar.
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+Nr 1 er greina vandamalid.
+Nr 2 er ad bua til kenningu um liklega orsok.
+Nr 3 er ad sannreyna kenninguna.
+Nr 4 er ad skapa plan til ad laga vandann og framkvaema planid
+Nr 5 er ad rannsaka lagada kerfid og mogula fyrirbyggja fremri vandamal
+Nr 6 er ad bua til skjal og skyrslu um vandann.
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 
