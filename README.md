@@ -39,7 +39,17 @@ Nr 6 er ad bua til skjal og skyrslu um vandann.
 
 **7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?**
 
-Nefnið dæmi um báðar gerðir af spurningum.
+opinn spurning er spurning sem ekki er haegt ad svara med einfoldu 'ja' eda 'nei', a medan lokud spurning er spurning sem haegt er ad svara a thann hatt, eda spurning sem leidir ad einhverju akvednu svari sem spyrjandinn var ad leitast eftir.
+
+Daemi um opna spurningu:
+
+* Hvar serdu thig sjalfa/n eftir 5 ar?
+* Hvad finnst ther um islenska politik?
+
+Daemi um lokada spurningu:
+
+* Hvad heitir thu?
+* Att thu hund?
 
 **8. Hvað eru jaðartæki?**
 
